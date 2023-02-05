@@ -13,6 +13,6 @@ reader can be observed to check whether the system works as desired.
 
 ## Sample txt files
 
-[Visa Transaction Sample Case](https://gist.github.com/okanatas/302b6c4f8212c4d6958f368e89d57915)
+[Visa Transaction Sample Case] (https://gist.github.com/okanatas/302b6c4f8212c4d6958f368e89d57915)
 
-[Mastercard Transaction Sample Case](https://gist.github.com/okanatas/cd2634aff6071dedd3d463e5c5e568e8)
+[Mastercard Transaction Sample Case] (https://gist.github.com/okanatas/cd2634aff6071dedd3d463e5c5e568e8)
